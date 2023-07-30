@@ -1,4 +1,4 @@
-# Complete list of all GitHub Profile badges and Achievements
+# Elenco completo di tutti i badge e gli obiettivi del profilo GitHub
 
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
 
