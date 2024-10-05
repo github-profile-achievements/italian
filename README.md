@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Elenco completo di tutti i badge e i traguardi del profilo GitHub
 
 #### Mostrare i traguardi nel proprio profilo è del tutto opzionale; di norma, possono essere visti da chiunque entri nel tuo profilo pubblico.
